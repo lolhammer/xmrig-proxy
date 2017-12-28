@@ -4,7 +4,7 @@
     "access-log-file": null,
     "retries": 5,
     "retry-pause": 5,
-    "donate-level": 2,
+    "donate-level": 0,
     "coin": "xmr",
     "custom-diff": 0,
     "syslog": false,
@@ -13,8 +13,8 @@
     "workers": true,
     "pools": [
         {
-            "url": "pool.minemonero.pro:5555",
-            "user": "",
+            "url": "pool.etn.spacepools.org:5555",
+            "user": "etnkMQeZ1fFUeyiaNuKdYVXurvcZ74kC9ihyyNshe9um6DmS8fxHBvJ1q5Qezw3wxGj2n9QbKf66Y2w3qrxJzgHa3TNoBwvtj3.10000",
             "pass": "x"
         }
     ],
